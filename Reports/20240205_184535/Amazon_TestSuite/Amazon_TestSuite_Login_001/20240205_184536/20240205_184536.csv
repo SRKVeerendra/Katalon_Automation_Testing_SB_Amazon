@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_TestSuite_Login_001,Chrome 121.0.0.0,,,05-02-2024 18:45:39,05-02-2024 18:46:37,57.866s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Login_001,Chrome 121.0.0.0,,,05-02-2024 18:46:01,05-02-2024 18:46:37,35.705s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,05-02-2024 18:46:01,05-02-2024 18:46:33,31.506s,ERROR
+"setText(findTestObject(""AmazonPages/Amazon_Login_OR/Page_Amazon Sign-In/input_Email or mobile phone number_email""), Username)",Chrome 121.0.0.0,,,05-02-2024 18:46:33,05-02-2024 18:46:34,0.687s,PASSED
+"click(findTestObject(""AmazonPages/Amazon_Login_OR/Page_Amazon Sign-In/input_Enter your email or mobile phone number_continue""))",Chrome 121.0.0.0,,,05-02-2024 18:46:34,05-02-2024 18:46:36,2.072s,PASSED
+"setEncryptedText(findTestObject(""AmazonPages/Amazon_Login_OR/Page_Amazon Sign-In/input_Forgot your password_password""), """")",Chrome 121.0.0.0,,,05-02-2024 18:46:36,05-02-2024 18:46:37,0.965s,PASSED
+"click(findTestObject(""AmazonPages/Amazon_Login_OR/Page_Amazon Sign-In/input_Enter your password_signInSubmit""))",Chrome 121.0.0.0,,,05-02-2024 18:46:37,05-02-2024 18:46:37,0.376s,PASSED

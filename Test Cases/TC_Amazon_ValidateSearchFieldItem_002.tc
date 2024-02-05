@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Amazon_ValidateSearchFieldItem_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b157b936-5390-4f66-8e0a-4441eff3086a</testCaseGuid>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>35564565-4792-44cd-b35e-a5c3eecece02</id>
+      <masked>false</masked>
+      <name>checked</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>2c74f160-92d3-4c9d-9d24-bad3cd0e280d</id>
+      <masked>false</masked>
+      <name>unchecked</name>
+   </variable>
+</TestCaseEntity>

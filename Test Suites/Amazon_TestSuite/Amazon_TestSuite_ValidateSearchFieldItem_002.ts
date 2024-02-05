@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Amazon_TestSuite_ValidateSearchFieldItem_002</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>838a1b0f-89c2-4454-9bc7-2be3b9e39e93</testSuiteGuid>
+   <testCaseLink>
+      <guid>ee417e81-06c2-41f6-9218-4c1d2e35cd91</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Amazon_ValidateSearchFieldItem_002</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>81a87da6-fb6d-432e-b5e6-2303e7871bb1</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestData/Amazon_Login_TestData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>35564565-4792-44cd-b35e-a5c3eecece02</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2c74f160-92d3-4c9d-9d24-bad3cd0e280d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

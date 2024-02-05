@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_TestSuite_ValidateSearchFieldItem_002,,,,05-02-2024 18:41:14,05-02-2024 18:41:14,0.690s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_ValidateSearchFieldItem_002,,,,05-02-2024 18:41:14,05-02-2024 18:41:14,0.522s,PASSED
+Start listener action : sampleBeforeTestCase,,,,05-02-2024 18:41:14,05-02-2024 18:41:14,0.385s,ERROR
+return null,,,,05-02-2024 18:41:14,05-02-2024 18:41:14,0.004s,PASSED
